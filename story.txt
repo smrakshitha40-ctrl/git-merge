@@ -1,3 +1,6 @@
+
 line 1 : lion
-line 2 : this line was changed in main 
+
+line 2 : this line was changed in main and feature 
+
 line 3 : the end
