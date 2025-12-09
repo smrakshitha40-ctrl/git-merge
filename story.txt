@@ -1,3 +1,0 @@
-line 3 = this is my 
-line 2 = hi 
-line 3 = this is my file 
